@@ -1,2 +1,1 @@
-
-export const ORIGIN = 'https://spring-hack-your-film.herokuapp.com';
+export const ORIGIN = "https://spring-hack-your-film.herokuapp.com";
