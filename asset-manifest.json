@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hack-your-film/static/css/main.6417938d.css",
+    "main.js": "/hack-your-film/static/js/main.ccec0e99.js",
+    "static/js/787.b4d2eb41.chunk.js": "/hack-your-film/static/js/787.b4d2eb41.chunk.js",
+    "index.html": "/hack-your-film/index.html",
+    "main.6417938d.css.map": "/hack-your-film/static/css/main.6417938d.css.map",
+    "main.ccec0e99.js.map": "/hack-your-film/static/js/main.ccec0e99.js.map",
+    "787.b4d2eb41.chunk.js.map": "/hack-your-film/static/js/787.b4d2eb41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6417938d.css",
+    "static/js/main.ccec0e99.js"
+  ]
+}
