@@ -9,11 +9,10 @@ function Footer() {
       </p>
       <p>
         developed by{" "}
-        <a href="https://github.com/omerjava">github.com/omerjava</a> @2022
+        <a href="https://github.com/omerjava">github.com/omerjava</a> @2022.
       </p>
       <p>
-        Java Spring backend is deployed in{" "}
-        <a href="https://spring-hack-your-film.herokuapp.com">Heroku</a>
+        Java Spring backend is deployed in Heroku.
       </p>
     </div>
   );
